@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="shopping">
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Http/Controllers/Shopping/ProductsController.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Admin/Product/new.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Shopping/ProductsForms/Download.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Shopping/Cart/index.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/CheckoutHandlers/DownloadCheckout.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/welcome.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Shopping/ProductsForms/Subscription.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Product/Product.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Http/Controllers/Shopping/CartsController.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/database/migrations/2016_07_20_105320_create_carts_table.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Contracts/CheckoutInterface.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/.env</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/database/migrations/2016_07_20_105306_create_products_table.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/home.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Factories/CheckoutFactory.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/CheckoutHandlers/SubscriptionCheckout.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Shopping/ProductsForms/Mail.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Models/Cart.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Presenters/ProductPresenter.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Admin/Product/index.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/composer.json</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Http/routes.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Presenters/CartItemPresenter.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/User.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Models/CartItem.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/tests/PriceTest.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/CheckoutHandlers/MailCheckout.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/resources/views/Shopping/paymentTypes/DownloadCheckout.blade.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/database/migrations/2016_07_20_112722_create_cart_items_table.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/app/Shopping/Models/Product.php</file>
+            <file>file:/C:/Users/blackthrone/Documents/GitHub/shoping/tests/ExampleTest.php</file>
+        </group>
+    </open-files>
+</project-private>
